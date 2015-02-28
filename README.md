@@ -4,4 +4,4 @@
 
 由于是基于jahiy的版本修改的，所有jahiy版本已知的问题都会继续存在，例如不能上传图片、不支持一条推里的多张图片显示、有时候排版会出错等等，但是至少TL能刷新了不是？（拖走……
 
-Made just for fun and LOVE. [Download it here!](#)
+[Download it here!](http://kyohiroki.github.io/EchofonHirokiMod/EchofonHirokiMod.xpi)
